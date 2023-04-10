@@ -1,0 +1,8 @@
+const a = 14;
+const b = a;
+
+module.exports = { a, b }
+
+//After the statement above, we can access a 
+//We can also create another variable b and store in it the value from a
+//After these two lines, both a and b will store the value 14
