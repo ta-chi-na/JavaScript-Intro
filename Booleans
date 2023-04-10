@@ -1,0 +1,4 @@
+const LoggedIn = false;
+const PurchasedItem = true;
+
+module.exports = { a, b }
