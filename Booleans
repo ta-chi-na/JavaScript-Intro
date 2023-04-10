@@ -1,4 +1,4 @@
-const LoggedIn = false;
-const PurchasedItem = true;
+const a = false;
+const b = true;
 
 module.exports = { a, b }
