@@ -1,0 +1,5 @@
+const a = 14
+
+module.exports = a;
+
+//We store values in something called a variable
